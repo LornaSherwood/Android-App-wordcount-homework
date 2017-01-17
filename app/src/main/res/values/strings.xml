@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Word Count Homework</string>
+    <string name="question">Add your words... </string>
+    <string name="countButton">Start counting!</string>
+    <string name="answer_activity_title">And the word count is ...</string>
+
+
+</resources>
